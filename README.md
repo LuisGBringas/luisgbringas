@@ -91,30 +91,39 @@ Diseño e implementación de redes empresariales con fibra óptica y sistemas de
 
 ### 👤 Cuenta Personal — [@LuisGBringas](https://github.com/LuisGBringas)
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=LuisGBringas&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="LuisGBringas GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LuisGBringas&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=f85149&include_all_commits=true" alt="LuisGBringas GitHub Stats" />
 </p>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisGBringas&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisGBringas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&exclude_repo=luisgbringas" alt="Top Languages" />
+</p>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisGBringas&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### 🧪 Desarrollo / Labs — [@fitsanctuarydev](https://github.com/fitsanctuarydev)
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=fitsanctuarydev&show_icons=true&count_private=true&theme=radical&hide_border=true" alt="fitsanctuarydev GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fitsanctuarydev&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=141321&title_color=ff3068&text_color=ffffff&icon_color=79ff97&include_all_commits=true" alt="fitsanctuarydev GitHub Stats" />
 </p>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fitsanctuarydev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fitsanctuarydev&layout=compact&theme=radical&hide_border=true&bg_color=141321&title_color=ff3068&text_color=ffffff&langs_count=8" alt="Top Languages" />
+</p>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fitsanctuarydev&theme=radical&hide_border=true&background=141321" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### 🏢 Open Source & Organización — [@arciiopendevs](https://github.com/arciiopendevs)
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=arciiopendevs&show_icons=true&count_private=true&theme=merko&hide_border=true" alt="arciiopendevs GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arciiopendevs&show_icons=true&count_private=true&theme=merko&hide_border=true&bg_color=0a0f0d&title_color=00d8ff&text_color=ffffff&icon_color=00ff88&include_all_commits=true" alt="arciiopendevs GitHub Stats" />
 </p>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arciiopendevs&layout=compact&theme=merko&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arciiopendevs&layout=compact&theme=merko&hide_border=true&bg_color=0a0f0d&title_color=00d8ff&text_color=ffffff&langs_count=8" alt="Top Languages" />
+</p>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arciiopendevs&theme=merko&hide_border=true&background=0a0f0d" alt="GitHub Streak" />
 </p>
 
 </div>
